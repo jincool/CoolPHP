@@ -12,10 +12,10 @@
         * xxx    ----- 自定义文件夹
    * common  ---统一公用代码，如配置跨域、用户登录监测
 2.config
-  * config   ---系统配置
-  * database  ---数据库配置
+   * config   ---系统配置
+   * database  ---数据库配置
 3.cool ---系统核心文件，一般不允许改动
-  * Base.php   ---系统核心文件
-  * Model.php  ---系统封装mysql模型
+   * Base.php   ---系统核心文件
+   * Model.php  ---系统封装mysql模型
   
   
